@@ -1,1 +1,6 @@
+# ignore
 build/
+
+# Do NOT ignore
+!/build/readme.md
+
